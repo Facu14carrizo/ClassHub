@@ -7,7 +7,7 @@ Utiliza JSON Server para simular un backend RESTful, lo que permite realizar ope
 
 La aplicación permite gestionar cursos y alumnos, proporcionando funcionalidades para crear, leer, actualizar y eliminar registros.
 
-![Angular Project Demo](Assets/ABM-Demo.gif)
+![Angular Project Demo](src/assets/ABM-Demo.gif)
 
 ## Tecnologías Utilizadas
 
