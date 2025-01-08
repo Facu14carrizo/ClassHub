@@ -29,12 +29,12 @@ La aplicación permite gestionar cursos y alumnos, proporcionando funcionalidade
    para cargar la Base de Datos para login y entidades.
 
 • USUARIO ADMINISTRADOR
-    correo: admin@mail.com
-    contraseña: 123456
+- correo: admin@mail.com
+- contraseña: 123456
 
 • USUARIO NORMAL
-    correo: user@mail.com
-    contraseña: 123456
+- correo: user@mail.com
+- contraseña: 123456
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT.
